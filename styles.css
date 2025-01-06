@@ -2,7 +2,7 @@
 .cards{
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: flex-start;
+	justify-content: flex-end;
 	}
 .cards img{
 	margin : 10px;
